@@ -1,0 +1,4 @@
+this is my first in git
+third line added
+forth line added
+this is fourth line
